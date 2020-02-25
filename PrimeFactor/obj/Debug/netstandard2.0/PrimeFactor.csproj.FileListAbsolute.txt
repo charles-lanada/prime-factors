@@ -1,8 +1,0 @@
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\bin\Debug\netstandard2.0\PrimeFactor.deps.json
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\bin\Debug\netstandard2.0\PrimeFactor.dll
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\bin\Debug\netstandard2.0\PrimeFactor.pdb
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\obj\Debug\netstandard2.0\PrimeFactor.csprojAssemblyReference.cache
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\obj\Debug\netstandard2.0\PrimeFactor.AssemblyInfoInputs.cache
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\obj\Debug\netstandard2.0\PrimeFactor.AssemblyInfo.cs
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\obj\Debug\netstandard2.0\PrimeFactor.dll
-C:\Users\charlesl\Desktop\Tech\Emmersion\code-kata\prime-factors\PrimeFactor\obj\Debug\netstandard2.0\PrimeFactor.pdb

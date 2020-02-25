@@ -1,0 +1,5 @@
+﻿/.idea/*
+/PrimeFactor/bin/*
+/PrimeFactor/obj/*
+/PrimeFactorTests/obj/*
+/PrimeFactorTests/bin/*
