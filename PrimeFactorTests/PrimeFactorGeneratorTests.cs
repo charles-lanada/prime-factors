@@ -1,11 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Security.Cryptography;
 using NUnit.Framework;
 using PrimeFactor;
-// ReSharper disable ReturnTypeCanBeEnumerable.Local
-// ReSharper disable MemberCanBeMadeStatic.Local
 
 namespace PrimeFactorTests
 {
